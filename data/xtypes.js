@@ -355,6 +355,20 @@ var XTypes = {
       { name: 'axial', type: 'float' },
       { name: 'side', type: 'float' }
     ]
+  },
+  66: {
+    name: 'landinggearvertforce',
+    data: [
+      { name: 'gear', type: 'float' },
+    ]
+  },
+  137: {
+    name: 'gearforces',
+    data: [
+      { name: 'normal', type: 'float' },
+      { name: 'axial', type: 'float' },
+      { name: 'side', type: 'float' },
+    ]
   }
 };
 
